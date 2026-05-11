@@ -1,16 +1,21 @@
 📊 Analyse E-commerce avec Power BI
+
 📌 Description du projet
 
 Ce projet présente une analyse complète des performances d’un commerce en ligne à travers trois dashboards interactifs réalisés avec Power BI.
 L’objectif est d’explorer les ventes, les clients et la logistique afin d’aider à la prise de décision stratégique.
 
+
 🛠️ Outils utilisés
+*
 Power BI Desktop
 Power Query
 DAX
 Excel / CSV
 Data Visualization
+
 Dashboard 1 : 📈 Performance Commerciale
+
 Objectif
 
 Analyser les indicateurs clés de vente et suivre l’évolution du chiffre d’affaires.
@@ -30,7 +35,9 @@ Insights
 Forte croissance du chiffre d’affaires sur certains mois
 Variation importante des ventes selon les périodes
 Bon niveau de panier moyen
+
 Dashboard 2 : 🌍 Analyse Géographique et Client
+
 Objectif
 
 Comprendre la répartition des clients et analyser leur comportement.
@@ -48,7 +55,9 @@ Insights
 Forte concentration des clients dans certains États
 Les clients fidèles représentent une part importante des revenus
 Opportunités de développement dans d’autres régions
+
 Dashboard 3 : 📦 Analyse Logistique et Produit
+
 Objectif
 
 Analyser les produits, la logistique et la rentabilité.
