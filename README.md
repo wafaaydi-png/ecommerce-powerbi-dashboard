@@ -1,114 +1,105 @@
-📊 Analyse E-commerce avec Power BI
+# 📊 Dashboard E-commerce | Analyse des Performances Commerciales avec Power BI
 
-📌 Description du projet
+## 📌 Présentation du projet
 
-Ce projet présente une analyse complète des performances d’un commerce en ligne à travers trois dashboards interactifs réalisés avec Power BI.
-L’objectif est d’explorer les ventes, les clients et la logistique afin d’aider à la prise de décision stratégique.
+Ce projet consiste en la création d’un **dashboard interactif sous Power BI** permettant d’analyser les performances globales d’un commerce en ligne à travers plusieurs dimensions : ventes, clients et logistique.
 
+L’objectif est de transformer les données e-commerce en **informations claires, visuelles et exploitables** afin d’accompagner la prise de décision stratégique et d’optimiser la performance commerciale.
 
-🛠️ Outils utilisés
-*
-Power BI Desktop
-Power Query
-DAX
-Excel / CSV
-Data Visualization
+---
 
+# 📂 Pages du Dashboard
 
-Dashboard 1 : 📈 Performance Commerciale
+## 1️⃣ Performance commerciale
 
-Objectif
+Cette page offre une vue d’ensemble sur les principaux indicateurs de vente et leur évolution.
 
-Analyser les indicateurs clés de vente et suivre l’évolution du chiffre d’affaires.
+### KPI principaux
 
-KPI principaux
+- Chiffre d’affaires net
+- Quantité totale vendue
+- Prix moyen
+- Nombre de transactions
+- Panier moyen
+- Nombre d’articles par panier
 
-Chiffre d’Affaire Net : 1,23M €
+### Analyses disponibles
 
-Quantité Totale Vendue : 67K
+- Évolution du chiffre d’affaires net par mois
+- Analyse des ventes par tranche de poids
+- Suivi des indicateurs commerciaux clés
+- Comparaison des performances selon les périodes
 
-Prix Moyen : 25,35 €
+### Objectif
 
-Nombre des Transactions : 10K
+Suivre les performances commerciales et identifier les tendances de croissance des ventes.
 
-Panier Moyen : 117,02 €
+---
 
-Nombre d’articles par panier : 6,39
+## 2️⃣ Analyse géographique et client
 
-Visualisations
+Cette page permet de mieux comprendre la répartition des clients et leur comportement d’achat.
 
-Évolution du chiffre d’affaires net par mois
+### KPI principaux
 
-Filtre par tranche de poids
+- Nombre total de clients
+- Nombre de villes couvertes
+- Chiffre d’affaires moyen par client
 
-Cartes KPI dynamiques
+### Analyses disponibles
 
-Forte croissance du chiffre d’affaires sur certains mois
+- Carte géographique des clients
+- Répartition entre clients fidèles et nouveaux clients
+- Top des villes générant le plus de chiffre d’affaires
+- Analyse par région ou par État
 
-Variation importante des ventes selon les périodes
+### Objectif
 
-Bon niveau de panier moyen
+Comprendre le comportement client et identifier les opportunités de développement commercial.
 
-Dashboard 2 : 🌍 Analyse Géographique et Client
+---
 
-Objectif
+## 3️⃣ Logistique et produit
 
-Comprendre la répartition des clients et analyser leur comportement.
+Cette page est dédiée à l’analyse des produits, de la logistique et de la rentabilité.
 
-KPI principaux
+### KPI principaux
 
-Total Clients : 4372
+- Nombre de commandes validées
+- Nombre de commandes annulées
+- Coût logistique moyen
+- Rentabilité par produit
 
-Nombre des villes couvertes : 2223
+### Analyses disponibles
 
-Chiffre d’affaire moyen par client : 280,90 €
+- Répartition des commandes validées et annulées
+- Top des produits les plus vendus
+- Analyse de la rentabilité par produit
+- Évolution du coût de transport
+- Répartition des produits par catégorie
 
-Visualisations
+### Objectif
 
-Carte géographique des clients fidèles
+Optimiser la gestion logistique et identifier les produits les plus performants et les plus rentables.
 
-Répartition clients fidèles vs nouveaux
+---
 
-Top 5 villes par chiffre d’affaires
+# 🛠️ Outils utilisés
 
-Filtre par État
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Excel / CSV
+- Data Visualization
 
-Forte concentration des clients dans certains États
+---
 
-Les clients fidèles représentent une part importante des revenus
+# 🎯 Résultats attendus
 
-Opportunités de développement dans d’autres régions
+Ce dashboard permet de :
 
-Dashboard 3 : 📦 Analyse Logistique et Produit
-
-Objectif
-
-Analyser les produits, la logistique et la rentabilité.
-
-Visualisations
-
-Répartition des commandes validées vs annulées
-
-Top 10 produits les plus vendus
-
-Analyse rentabilité : chiffre d’affaires vs landed cost
-
-Évolution du coût de transport
-
-Nombre de produits par catégorie
-
-Certaines catégories dominent les ventes
-
-Le coût logistique varie selon les périodes
-
-Possibilité d’optimiser certains produits peu rentables
-
-🎯 Conclusion
-
-Ces dashboards permettent de :
-
-Suivre les performances commerciales
-Comprendre le comportement client
-Optimiser la logistique
-Identifier les produits les plus rentables
-Faciliter la prise de décision basée sur les données
+- Suivre les performances commerciales globales
+- Comprendre le comportement et la répartition des clients
+- Identifier les produits les plus rentables
+- Optimiser les coûts logistiques
+- Faciliter la prise de décision grâce à des visualisations interactives
